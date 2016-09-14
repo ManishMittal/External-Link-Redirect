@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system">
+    <name>External Link Redirect</name>
+	<creationDate>2015-11-03</creationDate>
+	<author>OpenSource Technologies</author>
+	<authorEmail>sales@opensourcetechnologies.com</authorEmail>
+	<authorUrl>http://www.opensourcetechnologies.com</authorUrl>
+	<copyright>(C) 2009-2015 OPENSOURCETECHNOLOGIES. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+    <version>3.0.0</version>
+    <description>Popup when redirect to external site</description>
+    <files>
+        <filename plugin="external_link">external_link.php</filename>
+	<filename>index.html</filename>
+        <folder>css</folder>
+        <folder>js</folder>
+    </files>
+    <config/>
+</extension>
